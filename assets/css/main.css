@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
-@import url("https://fonts.googleapis.com/css2?family=Redressed&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
 
 /*
 	Story by HTML5 UP
@@ -205,7 +205,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3 {
-		font-family: "Redressed", cursive;
+		font-family: 'Lobster Two', cursive;
 	}
 
 	h1 {
