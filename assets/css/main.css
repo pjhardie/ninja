@@ -193,6 +193,10 @@ input, select, textarea {
 			font-size: 1.25rem;
 		}
 
+		p.minor {
+			font-size: 0.75rem;
+		}
+
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.375;
@@ -322,11 +326,11 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #000000;
+		color: #293241;
 	}
 
 	a {
-		color: #000000;
+		color: #293241;
 	}
 
 		a:hover {
@@ -334,11 +338,11 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #000000;
+		color: #3D5A80;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #3D5A80;
 	}
 
 	blockquote {
@@ -7106,7 +7110,7 @@ input, select, textarea {
 		height: 100%;
 		outline: 0;
 		background-color: rgba(0, 0, 0, 0.75);
-		visibility: none;
+		visibility: hidden;
 		opacity: 0;
 		z-index: 0;
 	}
